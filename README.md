@@ -11,10 +11,29 @@ The course is taught in Python with Jupyter Notebooks, using libraries such as S
 Rachel's original lectures, as well as lectures from 3Blue1Brown have been built into TED-ED lessons, which will be indexed and linked on a separate page (to be built).
 
 ## Table of Contents
-The following listing links to the notebooks in this repository, rendered through the [nbviewer](http://nbviewer.jupyter.org) service.  
-<!---
+The following listing links to the notebooks in this repository, rendered through the [nbviewer](http://nbviewer.jupyter.org) service. 
+
+### [0. Index of TED-ED Lesson]
+#### [A. Review of Linear Algebra]
+- [Review #1 - What are Vectors ](https://ed.ted.com/on/M3hYbFyL)
+- [Review #2 - Linear combinations, span, basis and vectors](https://ed.ted.com/on/6NQlfY3k)
+- [Review #3 - Linear Transformations](https://ed.ted.com/on/ljt7Pwqk)
+- Review #4 Matrix Multiplication -- Coming soon! -- [Base 3Blue1Brown Video](https://youtu.be/XkY2DOUCWMU)
+- Review #5 3-D Transformations -- Coming soon! -- [Base 3Blue1Brown Video](https://youtu.be/rHLEWRxRGiM)
+- Review #6 The Determinant -- Coming soon! -- [Base 3Blue1Brown Video](https://youtu.be/Ip3X9LOh2dk)
+- Review #7 Inverses, Column & Null Spaces -- Coming Soon! -- [Base 3Blue1Brown Video](https://youtu.be/uQhTuRlWMxw)
+- Review #8 Nonsquare Matrices as Transformations -- Coming Soon! -- [Base 3Blue1Brown Video](https://youtu.be/v8VSDg_WQlA)
+- Review #9 Dot products and Duality -- Coming Soon! -- [Base 3Blue1Brown Video](https://youtu.be/LyGKycYT2v0)
+- Review #10 Cross Products -- Coming Soon! -- [Base 3Blue1Brown Video](https://youtu.be/eu6i7WJeinw)
+- More!! 
+
+#### [B. High Level overview of goals]
+
 Topics Covered:
-### [0. Course Logistics](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb) ([Video 1](https://www.youtube.com/watch?v=8iGzBMboA0I&index=1&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY))
+### [0. Course Logistics](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb) 
+
+<!---
+([Video 1](https://www.youtube.com/watch?v=8iGzBMboA0I&index=1&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY))
   - [My background](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Intro)
   - [Teaching Approach](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Teaching)
   - [Importance of Technical Writing](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb#Writing-Assignment)
