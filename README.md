@@ -30,7 +30,7 @@ The following listing links to the notebooks in this repository, rendered throug
 #### B. High Level overview of goals
 
 Topics Covered:
-### 0. Course Logistics
+### 0. [Day 1](https://github.com/Pelonza/numerical-linear-algebra/blob/master/0.%20Day%201.ipynb)
 <!--- (https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb)  --->
 
 <!---
