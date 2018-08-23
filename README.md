@@ -13,8 +13,8 @@ Rachel's original lectures, as well as lectures from 3Blue1Brown have been built
 ## Table of Contents
 The following listing links to the notebooks in this repository, rendered through the [nbviewer](http://nbviewer.jupyter.org) service. 
 
-### [0. Index of TED-ED Lesson]
-#### [A. Review of Linear Algebra]
+### 0. Index of TED-ED Lesson
+#### A. Review of Linear Algebra
 - [Review #1 - What are Vectors ](https://ed.ted.com/on/M3hYbFyL)
 - [Review #2 - Linear combinations, span, basis and vectors](https://ed.ted.com/on/6NQlfY3k)
 - [Review #3 - Linear Transformations](https://ed.ted.com/on/ljt7Pwqk)
@@ -27,10 +27,11 @@ The following listing links to the notebooks in this repository, rendered throug
 - Review #10 Cross Products -- Coming Soon! -- [Base 3Blue1Brown Video](https://youtu.be/eu6i7WJeinw)
 - More!! 
 
-#### [B. High Level overview of goals]
+#### B. High Level overview of goals
 
 Topics Covered:
-### [0. Course Logistics](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb) 
+### 0. Course Logistics
+<!--- (https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb)  --->
 
 <!---
 ([Video 1](https://www.youtube.com/watch?v=8iGzBMboA0I&index=1&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY))
