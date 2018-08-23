@@ -31,6 +31,7 @@ The following listing links to the notebooks in this repository, rendered throug
 
 Topics Covered:
 ### 0. [Day 1](https://github.com/Pelonza/numerical-linear-algebra/blob/master/0.%20Day%201.ipynb)
+### 0. [Day 1-Exercises](https://github.com/Pelonza/numerical-linear-algebra/blob/master/0.%20Day%201%20-%20Exercises.ipynb)
 <!--- (https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/0.%20Course%20Logistics.ipynb)  --->
 
 <!---
